@@ -105,9 +105,9 @@
 ## Github Stats  
 <div width="100%">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jesus1397&theme=react&hide_border=true&include_all_commits=false&count_private=true" align="left" style="width: 50%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jesus1397&theme=react&hide_border=true&include_all_commits=false&count_private=true" align="left" style="width: 49%" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jesus1397&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact" align="left" style="width: 50%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jesus1397&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact" align="right" style="width: 49%" />
 
 </div>
 <br/>  
