@@ -101,16 +101,21 @@
 <br/>  
 
 
+
 ## Github Stats  
-<div align="center"> 
-  ![jesus1397's Stats](https://github-readme-stats.vercel.app/api?username=jesus1397&theme=react&show_icons=true&hide_border=true&count_private=true)
-  ![jesus1397's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jesus1397&theme=react&hide_border=true)
-  ![jesus1397's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus1397&theme=react&show_icons=true&hide_border=true&layout=compact)
-</div>  
+<table><tr><td valign="top" width="33%">
 
-<br/>    
+<img src="https://github-readme-stats.vercel.app/api?username=jesus1397&theme=react&show_icons=true&hide_border=true&count_private=true" align="left" style="width: 100%" />
 
-<br/>  
+</td><td valign="top" width="33%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jesus1397&theme=react&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="33%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus1397&theme=react&show_icons=true&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
 
 
 <br />
