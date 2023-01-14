@@ -103,6 +103,6 @@
 
 
 ## Github Stats  
-<div valign="top"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jesus1397&theme=react&hide_border=true&include_all_commits=false&count_private=true" align="left" style="width: 44%;height: 100%" /><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jesus1397&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact" align="right" style="width: 44%;height: 100%" /></div>
+<div valign="top"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jesus1397&theme=react&hide_border=true&include_all_commits=false&count_private=true" align="left" style="width: 50%;height: 100%" /><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jesus1397&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact" align="right" style="width: 44%;height: 100%" /></div>
 <br/>  
 
