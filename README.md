@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning about Docker and NestJs  
   
 
-- ❓ Ask me about anything related to MEAN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and related technologies  
   
 
 - ⚡ Fun fact: I always use "xD" and ":V" unconsciously  
