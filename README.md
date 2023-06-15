@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Jesus, a full-stack developer 👨‍💻 </div>  
+### <div align="center">👋 Hi I'm Jesus, a full-stack developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [Github Obelisco](https://github.com/gcba/Obelisco)  
