@@ -1,5 +1,6 @@
-### <div align="center">👋 Hi I'm Jesus, a full-stack developer 👨‍💻 </div>  
-  
+### <h3 align="center">👋 Hi I'm Jesus, a full-stack developer 👨‍💻 </h3>  
+
+<br/>  
 
 - 🔭 I’m currently working on [Github Obelisco](https://github.com/gcba/Obelisco)  
   
